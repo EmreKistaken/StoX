@@ -157,7 +157,7 @@ Uygulama aşağıdaki sütunları içeren veri dosyalarını destekler:
 ## 🏗️ Proje Yapısı
 
 ```
-veri_ajans/
+.../
 ├── app.py                 # Ana Streamlit uygulaması
 ├── requirements.txt       # Python bağımlılıkları
 ├── README.md             # Bu dosya
